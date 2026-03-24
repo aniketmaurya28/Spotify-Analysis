@@ -2,7 +2,7 @@
 
 **End-to-End Data Pipeline: Raw Spotify JSON → Interactive Power BI Insights**
 
-Analyzed 15,549 streams spanning 4+ years (46,743 total minutes) to uncover listening patterns, platform preferences, and music tastes through advanced EDA and visualization.
+Analyzed 26,257 streams spanning 6+ years (79,823 total minutes) to uncover listening patterns, platform preferences, and music tastes through advanced EDA and visualization.
 
 ## 📊 Project Overview
 
