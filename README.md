@@ -55,8 +55,7 @@ DIVIDE(
     CALCULATE(COUNTROWS('SpotifyData'), 'SpotifyData'[skipped] = "TRUE"),
     COUNTROWS('SpotifyData')
 )
-
-
+```
 🔗 Connect
 Aniket Maurya | Final-year BE Computer Engineering
 [LinkedIn](https://www.linkedin.com/in/aniket-maurya-68bb4925a/) 
