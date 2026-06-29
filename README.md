@@ -171,7 +171,3 @@ The analysis is built on a cleaned Spotify streaming history dataset (`spotify_c
 **Aniket Maurya**
 
 ---
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
