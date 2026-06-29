@@ -57,7 +57,7 @@ DIVIDE(
 )
 ```
 🔗 Connect
-Aniket Maurya | Final-year BE Computer Engineering
+Aniket Maurya | BE Computer Engineering
 [LinkedIn](https://www.linkedin.com/in/aniket-maurya-68bb4925a/) 
 
 Skills Demonstrated: Python, Pandas, Power BI, DAX, Power Query, Data Visualization, ETL
